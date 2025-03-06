@@ -1,0 +1,4 @@
+
+key_id   =    rzp_test_zwUrEZLZDKkOGT
+
+key_secret   =   uYLY04b6XQIroD52qiB3JsXJ
