@@ -1,5 +1,1 @@
-## Google Map Api Key
-AIzaSyDE5pmYxghesImUTTyqctMmjx7a3LDdvuE
-
-
-
+Google API key = AIzaSyBZGzdOMb80jbPPpAM4Rfq1o4DJpBMoM1g
